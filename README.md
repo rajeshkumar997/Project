@@ -1,2 +1,2 @@
 # Project
-[Grocery store website](https://harmonious-dieffenbachia-01aaae.netlify.app/)
+[Grocery store website](https://grocerystore24.netlify.app/)
