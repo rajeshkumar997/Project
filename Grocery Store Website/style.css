@@ -677,7 +677,6 @@ section {
         margin: 2rem 2.5rem;
         display: block;
     }
-
 }
 
 @media (max-width:450px) {
@@ -697,5 +696,4 @@ section {
     .footer .box-container .box .payment-img {
         margin: 2rem auto;
     }
-
 }
